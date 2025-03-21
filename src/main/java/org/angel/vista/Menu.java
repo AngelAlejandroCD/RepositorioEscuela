@@ -22,7 +22,7 @@ public class Menu {
     public static void principal2() {
         System.out.println("WELCOME");
         System.out.println("PROGRAMA DE FIGURAS");
-        System.out.println("SELECCIONA UNA OPCION");
+        System.out.println("SELECC");
         System.out.println("1.- Consola");
         System.out.println("2.- Ventana");
         System.out.println("3.- Salir");
